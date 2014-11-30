@@ -12,6 +12,7 @@ public class BasicCalculator {
 		calculator.addResultToTempAt(1);
 		//System.out.println(result);
 		//System.out.println(tempVars[1]);
+		//test  commit2
 	}
 
 	
